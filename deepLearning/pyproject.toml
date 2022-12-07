@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "DeepLearning"
+version = "0.1.0"
+description = "Projeto para Explorar Mais DeepLearning"
+authors = ["Diego GO"]
+license = "Privada"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^1.5.1"
+matplotlib = "^3.6.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

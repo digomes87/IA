@@ -1,0 +1,5 @@
+numpy @ file:///Users/dgomes/Library/Caches/pypoetry/artifacts/2d/9e/a4/ffdaaa9556cdefb31c50fbbd123fa561c266648afd4a94ea3f914a2164/numpy-1.23.4-cp310-cp310-macosx_10_9_x86_64.whl
+pandas @ file:///Users/dgomes/Library/Caches/pypoetry/artifacts/4f/e4/15/47d44eac1e0a9ccf019151c5a3f389c016b7efd222c3a75ac4365f5d07/pandas-1.5.1-cp310-cp310-macosx_10_9_x86_64.whl
+python-dateutil @ file:///Users/dgomes/Library/Caches/pypoetry/artifacts/39/9b/3b/576da7c854551d780528d75132c98882925e44de0aecf8a31a4bea379c/python_dateutil-2.8.2-py2.py3-none-any.whl
+pytz @ file:///Users/dgomes/Library/Caches/pypoetry/artifacts/79/31/8e/dd8702c804757e975df63ad8f3a18ba5a331ea2efa35e2daf1eee467ac/pytz-2022.5-py2.py3-none-any.whl
+six @ file:///Users/dgomes/Library/Caches/pypoetry/artifacts/89/b2/f8/fd92b6d5daa0f8889429b2fc67ec21eedc5cae5d531ee2853828ced6c7/six-1.16.0-py2.py3-none-any.whl
